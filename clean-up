@@ -1,0 +1,5 @@
+#!/bin/bash
+
+rm -rf /tmp/root/*
+SCRIPT_DIR="$(dirname "$(readlink -f "$0")")"
+$SCRIPT_DIR/exec-cmd "rm -rf /home/hadoop-2.6.0/logs/userlogs/*;rm -f /home/hadoop-2.6.0/logs/*;rm -rf /home/spark/work/*;rm -rf /home/spark_local_dir/*"

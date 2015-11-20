@@ -1,0 +1,53 @@
+#!/bin/bash
+
+SCRIPT_DIR="$(dirname "$(readlink -f "$0")")"
+nmon=false;
+cache=false;
+
+if [ $# -eq 2 ]; then
+  if [ $2 = "nmon" ]; then
+    nmon=true
+  fi
+  if [ $2 = "cache" ]; then
+    cache=true
+  fi
+fi
+
+if [ $# -eq 3 ]; then
+  if [ $2 = "nmon" ]; then
+    nmon=true
+  fi
+  if [ $2 = "cache" ]; then
+    cache=true
+  fi
+  if [ $3 = "nmon" ]; then
+    nmon=true
+  fi
+  if [ $3 = "cache" ]; then
+    cache=true
+  fi
+fi
+
+if [ $cache = "true" ]; then
+  echo "Dropping cache"
+  $SCRIPT_DIR/drop-cache
+fi
+
+if [ $nmon = "true" ]; then
+  echo "Starting nmon"
+  $SCRIPT_DIR/start-nmon
+fi
+
+$1
+
+if [ $nmon = "true" ]; then
+  echo "Stopping nmon"
+  $SCRIPT_DIR/stop-nmon
+  echo "Collecting nmon"
+  $SCRIPT_DIR/collect-nmon
+fi
+printf '\7'
+sleep 1
+printf '\7'
+sleep 1
+printf '\7'

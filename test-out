@@ -1,0 +1,500 @@
+Test 3-replica ...
+1 client writing ...
+Writing /tmp/benchmark/replica/rep-file-12288MB_0.tmp
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_0.tmp
+Time taken: 50.97 s.
+WRITE 12288 MB data takes: 51.03 s.
+Total throughput: 240.79 MB/s.
+
+5 client writing ...
+Writing /tmp/benchmark/replica/rep-file-12288MB_0.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_2.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_1.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_3.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_4.tmp
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_4.tmp
+Time taken: 124.86 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_0.tmp
+Time taken: 147.37 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_3.tmp
+Time taken: 149.7 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_2.tmp
+Time taken: 153.69 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_1.tmp
+Time taken: 158.74 s.
+WRITE 61440 MB data takes: 158.8 s.
+Total throughput: 386.9 MB/s.
+
+10 client writing ...
+Writing /tmp/benchmark/replica/rep-file-12288MB_0.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_2.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_1.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_3.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_4.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_5.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_6.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_7.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_8.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_9.tmp
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_3.tmp
+Time taken: 426.08 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_1.tmp
+Time taken: 440.15 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_8.tmp
+Time taken: 455.72 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_5.tmp
+Time taken: 456.32 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_7.tmp
+Time taken: 457.87 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_9.tmp
+Time taken: 458.5 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_6.tmp
+Time taken: 463.17 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_4.tmp
+Time taken: 464.02 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_2.tmp
+Time taken: 464.26 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_0.tmp
+Time taken: 470.3 s.
+WRITE 122880 MB data takes: 470.34 s.
+Total throughput: 261.26 MB/s.
+
+20 client writing ...
+Writing /tmp/benchmark/replica/rep-file-12288MB_0.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_1.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_2.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_3.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_4.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_5.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_6.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_8.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_7.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_9.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_11.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_10.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_12.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_13.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_16.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_17.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_14.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_15.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_18.tmp
+Writing /tmp/benchmark/replica/rep-file-12288MB_19.tmp
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_0.tmp
+Time taken: 730.87 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_9.tmp
+Time taken: 758.57 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_6.tmp
+Time taken: 793.41 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_5.tmp
+Time taken: 795.76 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_8.tmp
+Time taken: 817.13 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_11.tmp
+Time taken: 832.91 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_3.tmp
+Time taken: 858.19 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_15.tmp
+Time taken: 858.88 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_4.tmp
+Time taken: 870.46 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_17.tmp
+Time taken: 884.2 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_2.tmp
+Time taken: 902.46 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_14.tmp
+Time taken: 903.55 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_18.tmp
+Time taken: 911.13 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_7.tmp
+Time taken: 912.76 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_16.tmp
+Time taken: 916.31 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_19.tmp
+Time taken: 917.44 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_13.tmp
+Time taken: 929.21 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_1.tmp
+Time taken: 934.6 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_12.tmp
+Time taken: 947.12 s.
+Finished writing /tmp/benchmark/replica/rep-file-12288MB_10.tmp
+Time taken: 949.79 s.
+WRITE 245760 MB data takes: 949.84 s.
+Total throughput: 258.74 MB/s.
+
+Test HDFS-RAID ...
+1 client writing ...
+Writing /tmp/benchmark/ec/ec-file-12288MB_0.tmp
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_0.tmp
+Time taken: 382.1 s.
+WRITE 12288 MB data takes: 382.16 s.
+Total throughput: 32.15 MB/s.
+
+5 client writing ...
+Writing /tmp/benchmark/ec/ec-file-12288MB_0.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_1.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_2.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_4.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_3.tmp
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_2.tmp
+Time taken: 200.82 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_1.tmp
+Time taken: 200.83 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_3.tmp
+Time taken: 201.93 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_4.tmp
+Time taken: 202.27 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_0.tmp
+Time taken: 203.74 s.
+WRITE 61440 MB data takes: 203.76 s.
+Total throughput: 301.53 MB/s.
+
+10 client writing ...
+Writing /tmp/benchmark/ec/ec-file-12288MB_0.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_1.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_2.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_3.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_4.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_5.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_6.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_7.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_8.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_9.tmp
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_8.tmp
+Time taken: 198 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_7.tmp
+Time taken: 198.67 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_4.tmp
+Time taken: 198.73 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_3.tmp
+Time taken: 199.01 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_2.tmp
+Time taken: 200.22 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_6.tmp
+Time taken: 200.98 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_9.tmp
+Time taken: 201.78 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_5.tmp
+Time taken: 202.22 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_0.tmp
+Time taken: 203.1 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_1.tmp
+Time taken: 204.07 s.
+WRITE 122880 MB data takes: 204.11 s.
+Total throughput: 602.03 MB/s.
+
+20 client writing ...
+Writing /tmp/benchmark/ec/ec-file-12288MB_0.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_1.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_2.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_3.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_4.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_5.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_6.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_8.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_9.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_7.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_11.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_10.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_12.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_13.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_16.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_14.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_15.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_17.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_18.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_19.tmp
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_6.tmp
+Time taken: 327.47 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_3.tmp
+Time taken: 327.56 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_16.tmp
+Time taken: 327.82 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_13.tmp
+Time taken: 328.01 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_11.tmp
+Time taken: 328.04 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_8.tmp
+Time taken: 328.72 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_12.tmp
+Time taken: 329.54 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_17.tmp
+Time taken: 331.07 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_4.tmp
+Time taken: 331.37 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_1.tmp
+Time taken: 331.89 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_7.tmp
+Time taken: 332.45 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_19.tmp
+Time taken: 333.51 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_9.tmp
+Time taken: 333.69 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_2.tmp
+Time taken: 334.03 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_0.tmp
+Time taken: 334.85 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_10.tmp
+Time taken: 336.71 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_15.tmp
+Time taken: 338.68 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_5.tmp
+Time taken: 339.78 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_14.tmp
+Time taken: 339.8 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_18.tmp
+Time taken: 340.08 s.
+WRITE 245760 MB data takes: 340.12 s.
+Total throughput: 722.56 MB/s.
+
+Test New-Java ...
+1 client writing ...
+Writing /tmp/benchmark/ec/ec-file-12288MB_0.tmp
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_0.tmp
+Time taken: 57.91 s.
+WRITE 12288 MB data takes: 57.94 s.
+Total throughput: 212.09 MB/s.
+
+5 client writing ...
+Writing /tmp/benchmark/ec/ec-file-12288MB_0.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_1.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_2.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_3.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_4.tmp
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_2.tmp
+Time taken: 82.24 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_1.tmp
+Time taken: 83.18 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_4.tmp
+Time taken: 83.63 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_0.tmp
+Time taken: 84.43 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_3.tmp
+Time taken: 85.29 s.
+WRITE 61440 MB data takes: 85.33 s.
+Total throughput: 720.06 MB/s.
+
+10 client writing ...
+Writing /tmp/benchmark/ec/ec-file-12288MB_0.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_2.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_3.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_1.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_4.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_6.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_5.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_7.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_8.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_9.tmp
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_2.tmp
+Time taken: 164.77 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_5.tmp
+Time taken: 165.65 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_6.tmp
+Time taken: 165.91 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_7.tmp
+Time taken: 166.27 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_8.tmp
+Time taken: 166.37 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_1.tmp
+Time taken: 166.49 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_3.tmp
+Time taken: 166.61 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_9.tmp
+Time taken: 168.23 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_4.tmp
+Time taken: 168.24 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_0.tmp
+Time taken: 168.72 s.
+WRITE 122880 MB data takes: 169.1 s.
+Total throughput: 726.69 MB/s.
+
+20 client writing ...
+Writing /tmp/benchmark/ec/ec-file-12288MB_0.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_1.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_2.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_3.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_4.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_5.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_7.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_6.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_8.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_10.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_11.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_9.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_12.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_13.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_18.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_15.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_14.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_17.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_19.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_16.tmp
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_17.tmp
+Time taken: 331.47 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_14.tmp
+Time taken: 332.83 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_18.tmp
+Time taken: 333.82 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_16.tmp
+Time taken: 334.13 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_7.tmp
+Time taken: 334.4 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_9.tmp
+Time taken: 334.92 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_3.tmp
+Time taken: 335.62 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_5.tmp
+Time taken: 335.77 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_11.tmp
+Time taken: 335.77 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_1.tmp
+Time taken: 335.78 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_12.tmp
+Time taken: 336.09 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_6.tmp
+Time taken: 336.71 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_8.tmp
+Time taken: 337.07 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_0.tmp
+Time taken: 337.48 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_2.tmp
+Time taken: 337.62 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_10.tmp
+Time taken: 337.68 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_19.tmp
+Time taken: 337.94 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_13.tmp
+Time taken: 338.06 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_4.tmp
+Time taken: 339.06 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_15.tmp
+Time taken: 340.2 s.
+WRITE 245760 MB data takes: 340.24 s.
+Total throughput: 722.32 MB/s.
+
+Test ISA-L ...
+1 client writing ...
+Writing /tmp/benchmark/ec/ec-file-12288MB_0.tmp
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_0.tmp
+Time taken: 25.74 s.
+WRITE 12288 MB data takes: 25.79 s.
+Total throughput: 476.52 MB/s.
+
+5 client writing ...
+Writing /tmp/benchmark/ec/ec-file-12288MB_0.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_1.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_3.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_2.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_4.tmp
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_4.tmp
+Time taken: 83.56 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_0.tmp
+Time taken: 83.7 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_3.tmp
+Time taken: 83.72 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_1.tmp
+Time taken: 84.14 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_2.tmp
+Time taken: 84.24 s.
+WRITE 61440 MB data takes: 84.26 s.
+Total throughput: 729.17 MB/s.
+
+10 client writing ...
+Writing /tmp/benchmark/ec/ec-file-12288MB_0.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_1.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_2.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_3.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_4.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_5.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_6.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_7.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_8.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_9.tmp
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_1.tmp
+Time taken: 164.96 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_7.tmp
+Time taken: 165.66 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_2.tmp
+Time taken: 165.85 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_4.tmp
+Time taken: 166.06 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_3.tmp
+Time taken: 167.14 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_5.tmp
+Time taken: 167.71 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_0.tmp
+Time taken: 168.59 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_8.tmp
+Time taken: 168.65 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_6.tmp
+Time taken: 168.73 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_9.tmp
+Time taken: 168.92 s.
+WRITE 122880 MB data takes: 168.94 s.
+Total throughput: 727.37 MB/s.
+
+20 client writing ...
+Writing /tmp/benchmark/ec/ec-file-12288MB_0.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_1.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_2.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_3.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_4.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_5.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_7.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_8.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_9.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_6.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_11.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_10.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_12.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_13.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_14.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_15.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_18.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_17.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_16.tmp
+Writing /tmp/benchmark/ec/ec-file-12288MB_19.tmp
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_6.tmp
+Time taken: 329.45 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_15.tmp
+Time taken: 331.71 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_10.tmp
+Time taken: 336.27 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_19.tmp
+Time taken: 337.66 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_5.tmp
+Time taken: 337.75 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_7.tmp
+Time taken: 338.11 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_4.tmp
+Time taken: 338.15 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_2.tmp
+Time taken: 338.17 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_9.tmp
+Time taken: 338.84 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_11.tmp
+Time taken: 338.99 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_8.tmp
+Time taken: 339.32 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_16.tmp
+Time taken: 339.77 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_12.tmp
+Time taken: 340.47 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_18.tmp
+Time taken: 340.99 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_1.tmp
+Time taken: 341.02 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_13.tmp
+Time taken: 341.22 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_0.tmp
+Time taken: 341.25 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_14.tmp
+Time taken: 341.26 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_3.tmp
+Time taken: 341.68 s.
+Finished writing /tmp/benchmark/ec/ec-file-12288MB_17.tmp
+Time taken: 341.82 s.
+WRITE 245760 MB data takes: 341.86 s.
+Total throughput: 718.88 MB/s.
+
